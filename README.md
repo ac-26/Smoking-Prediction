@@ -9,7 +9,7 @@ It includes features such as ID, gender, oral health, tartar presence, and other
 
 ## Project Structure
 
-- `smoking.ipynb`: Main script containing the implementation of data loading, preprocessing, model training, and evaluation.
+- `script.py`: Main script containing the implementation of data loading, preprocessing, model training, and evaluation.
 - `smoking.csv`: Dataset file used for model training and testing.
 
 ## Key Features
